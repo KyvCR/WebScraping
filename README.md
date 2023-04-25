@@ -1,1 +1,1 @@
-"Learning WebScraping"
+"Latihan WebScraping"
