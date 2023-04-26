@@ -1,1 +1,1 @@
-"Latihan WebScraping"
+"WebScraping"
